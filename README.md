@@ -1,4 +1,4 @@
-# Autorick-shaw-vs-Car-Object-Detection
+# Auto-rickshaw-vs-Car-Object-Detection
 # Instructions
 Make sure you have tensorflow-gpu installed.
 Follow these installation steps for dependencies and TensorFlow installation.
