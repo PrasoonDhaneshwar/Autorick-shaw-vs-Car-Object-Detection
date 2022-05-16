@@ -39,5 +39,5 @@ Run the following command from tensorflow/models/research/ directory.
 
  Above script takes 'input.mp4' as a video stream and writes into 'output.mp4'
  
- Link to output video. It's 1.4GB uncompressed, because .mp4 format in Linux OpenCV was giving some trouble with fourcc codecs(XVID/MP4V).
- https://drive.google.com/file/d/1za01g0KGp4FZm24Cd5ZAeAcOLzHBqHzv/view?usp=sharing
+Link to output video:
+https://drive.google.com/file/d/1za01g0KGp4FZm24Cd5ZAeAcOLzHBqHzv/view?usp=sharing
